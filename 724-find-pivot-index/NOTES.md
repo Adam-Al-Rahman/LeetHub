@@ -1,1 +1,6 @@
-​
+- Algorithm
+- Initiate a variable with sum of the list
+- iterate over the list
+- Subtract the index value with total value and assign the new value to the total variable
+- check if left == total then return 1
+- then left += nums[i]
