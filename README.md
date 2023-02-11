@@ -1,2 +1,3 @@
-# CompetitiveProgramming
-Collection of LeetCode questions to ace the coding interview!
+# LeetHub
+
+Collection of LeetCode python solved questions 
